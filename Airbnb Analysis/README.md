@@ -19,6 +19,6 @@ Insights -
 
 ### Dashboard view
 
-![image alt](https://github.com/Animeshkumar-01/Power-BI-Project/blob/821be32e3a628d540cddce1ffcb94c8f1fac0263/Airbnb%20Analysis/Screenshot%202026-03-08%20111345.png)
+![image alt](https://github.com/Animeshkumar-01/Power-BI-Project/blob/d578243a45e551945f16220e839f5b51e7985180/Airbnb%20Analysis/Screenshot%202026-03-08%20111345.png)
 
 
