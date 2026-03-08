@@ -17,4 +17,8 @@ Insights -
 9.  Number of ratings received by the different types of rooms - hotel, apartment, shared, private
 10.  Number of reviews received in each neighborhood
 
+### Dashboard view
+
+![image alt](https://github.com/Animeshkumar-01/Power-BI-Project/blob/0f069afa104435439b56c3034007624fee3a6cbc/Airbnb%20Analysis/AirBnbAnalysis%20project%20file.pbix)
+
 
